@@ -1,0 +1,15 @@
+{
+  "item.value.silver_coin": "Silver Coin",
+  "item.value.copper_coin": "Copper Coin",
+  "item.value.gold_coin": "Gold Coin",
+  "item.value.platinum_coin": "Platinum Coin",
+
+  "item.value.red_ticket": "Red Ticket",
+  "item.value.green_ticket": "Green Ticket",
+  "item.value.lime_ticket": "Lime Ticket",
+  "item.value.cyan_ticket": "Cyan Ticket",
+  "item.value.blue_ticket": "Blue Ticket",
+  "item.value.pink_ticket": "Pink Ticket",
+  "item.value.purple_ticket": "Purple Ticket",
+  "item.value.golden_ticket": "Golden Ticket"
+}

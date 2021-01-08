@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="The Unlicense"
+
+[[mods]]
+    modId="value"
+    version="${file.jarVersion}"
+    displayName="Value"
+    #updateJSONURL="http://myurl.me/" #optional
+    #displayURL="http://example.com/" #optional
+    #logoFile="examplemod.png" #optional
+    #credits="Thanks for this example mod goes to Java" #optional
+    #authors="Love, Cheese and small house plants" #optional
+    description='''
+    Coin and Ticket mod
+
+    '''
+
+[[dependencies.value]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.value]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
